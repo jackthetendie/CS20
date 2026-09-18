@@ -48,6 +48,9 @@ public class rectangle {
 				
 		//display the perimeter on the screen
 		System.out.println("perimeter = "+ perimeter);
+		
+		
+		
 	}
 
 }
